@@ -1,5 +1,5 @@
 # Introduction
-This topology integrates an Access Point (AP) into the original FRRouting (FRR) topology. The AP is connected as follows:
+This topology (https://ieeexplore.ieee.org/document/10818004) integrates an Access Point (AP) into the original FRRouting (FRR) topology. The AP is connected as follows:
 
 **AP --> enp0s25 --> br0 --> router8:eth3**
 
