@@ -1,4 +1,9 @@
-# Lab Topology Overview
+# Introduction
+
+The topology used in this repository is described in detail in the following publication:
+A Comparative Analysis of Digital Twins for Advanced Networks (IEEE Xplore)
+
+## Lab Topology Overview
 
 This lab consists of:
 
