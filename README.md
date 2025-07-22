@@ -45,7 +45,17 @@ To set up the platform, run the following command:
 ```bash
 ./start.sh
 ```
+## Publications
 
+- Urwah Muslim and Stephan Recker.
+"A Comparative Analysis of Digital Twins for Advanced Networks."
+2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE), pp. 281–286, 2024.
+IEEE DOI: 10.1109/CANDO-EPE65072.2024.10772762
+
+- Urwah Muslim and Stephan Recker
+“Demo: Emulation Platform to Build Digital Twins of Edge Computing Environments”
+2024 IEEE/ACM Symposium on Edge Computing (SEC), pp. 512–514, 2024.
+DOI: 10.1109/SEC62691.2024.00062
 
 ## Resources
 - Containerlab
